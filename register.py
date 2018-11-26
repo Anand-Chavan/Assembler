@@ -1,0 +1,6 @@
+systemfun=['call','printf','scanf','puts','add','sub','mul','push','pop','pusha','popa','mov','xor','jmp','jnz','jz','je','jne','dec','inc','cmp']
+regval1=['32R0','32R1','32R2','32R3','32R4','32R5','32R6','32R7']
+regval2=['16R0','16R1','16R2','16R3','16R4','16R5','16R6','16R7']
+regval3=['8R0','8R1','8R2','8R3','8R4','8R5','8R6','8R7']
+allregval=['32R0','32R1','32R2','32R3','32R4','32R5','32R6','32R7','16R0','16R1','16R2','16R3','16R4','16R5','16R6','16R7','8R0','8R1','8R2','8R3','8R4','8R5','8R6','8R7']
+chk=['sym','LIT']
